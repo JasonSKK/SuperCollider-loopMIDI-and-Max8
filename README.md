@@ -17,8 +17,11 @@ loopMIDI -->> http://www.tobias-erichsen.de/software/loopmidi.html
 4) Choose the correct port via "noteout 1" (Output).
 5) Evaluate the code in SC. (Select All + Evaluate)
 
+!To use the Arpeggiator or to play chords twist the (single note, chords, arp) knob! 
+*for the arp you must change the ms values in the Arpeggiator section* 
 
-Enjoy theese funky sounds or create your own!
+
+Enjoy these funky sounds or create your own!
 Thanks!
 
 Jason SK
