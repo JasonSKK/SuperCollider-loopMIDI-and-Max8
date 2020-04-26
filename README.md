@@ -1,4 +1,4 @@
-# Max-8-loopMIDI-and-SuperCollider
+# SuperCollider-loopMIDI-and-Max 8 
 Max 8 sends MIDI data via loopMIDI to SuperCollider
 
 Hello!
