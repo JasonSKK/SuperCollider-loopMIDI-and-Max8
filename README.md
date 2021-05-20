@@ -1,8 +1,6 @@
 # SuperCollider-loopMIDI-and-Max 8 
 Max 8 sends MIDI data via loopMIDI to SuperCollider
 
-Hello!
-
 You will need:
 Max 8
 SuperCollider 
@@ -20,8 +18,6 @@ loopMIDI -->> http://www.tobias-erichsen.de/software/loopmidi.html
 !To use the Arpeggiator or to play chords twist the (single note, chords, arp) knob! 
 *for the arp you must change the ms values in the Arpeggiator section* 
 
-
 Enjoy these funky sounds or create your own!
-Thanks!
 
 Jason SK
